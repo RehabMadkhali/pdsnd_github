@@ -1,15 +1,17 @@
 ### Date created
 Include the date you created this project and README file.
+7th-July-2019
 
 ### Project Title
-Replace the Project Title
+Bikeshare Project (Suggested by Senior on my request)
 
 ### Description
-Describe what your project is about and what it does
+Bikeshare Project contains information about the bikes
 
 ### Files used
-Include the files used
+bikeshare.py code file
+gitignore file having name of ignored file.
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
-
+Udacity
+Internet Blogs to complete it.
