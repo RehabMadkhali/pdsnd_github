@@ -195,7 +195,7 @@ def user_stats(df):
 city, month, day = get_filters()
 df = load_data(city, month, day)
 
-#This is new git command for test
+#This is new git command for test. Check now
 def main():
     while True:
         time_stats(df)
