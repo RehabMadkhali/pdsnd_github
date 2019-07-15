@@ -15,3 +15,9 @@ gitignore file having name of ignored file.
 ### Credits
 Udacity
 Internet Blogs to complete it.
+
+### Added button
+Button added.
+
+### Documentation and Guideline
+This if for guideline.
